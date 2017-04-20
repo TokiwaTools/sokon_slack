@@ -299,7 +299,7 @@
 
 # 共通形式について
 
-`Fisrt Name`: 名前 (漢字)
+`First Name`: 名前 (漢字)
 `Last Name`: 苗字 (漢字)
 ※ モバイル版では上が `First` 下が `Last`
 
