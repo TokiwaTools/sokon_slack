@@ -3,9 +3,9 @@
 
 <!-- *template: invert -->
 
-# 資料はこちら
+## 資料はこちら
 
-## https://goo.gl/BwkObP
+# https://goo.gl/BwkObP
 ##### `マニュアル` の方を開いてお待ちください
 
 ---
@@ -119,68 +119,21 @@
 
 ## ==② Slackアプリのインストール==
 
-#### **[ダウンロード](https://slack.com/downloads)**
-
 - **【必須】モバイル(スマホ)版**
 - 【推奨】ブラウザ、デスクトップ版
     - スマホがない人はこのどちらかを入れてください
 
 ---
 
-### モバイル版の初期設定
+### モバイル版の導入
 
-1. アプリをインストール ( `slack`で検索 )
-
----
-
-
-2. `Sign in to an existing team` をタップ
-
-![](images/mobile_login-1.png)
-
----
-
-3. `sokon` と入力
-
-![](images/mobile_login-2.png)
-
----
-
-4. 招待が来たメールアドレスを入力
-
-![](images/mobile_login-3.png)
-
----
-
-5. `Type password` をタップ
-
-![](images/mobile_login-4.png)
-
----
-
-6. パスワードを入力
-
-![](images/mobile_login-5.png)
-
----
-
-7. 通知をONに
-
-![80%](images/mobile_login-6.png)
-
----
-
-- このようなポップアップが出たら `許可` や `OK` をタップ
-
-| iPhoneの例 | Androidの例 |
-|:-:|:-:|
-|![](images/ios_push.png) | ![](images/android_push.png) |
+###### DEMO
 
 ---
 
 ### ログイン成功！
 
-![48%](images/mobile_login-7.png)
+### ![48% center](images/mobile_login-7.png)
 
 ---
 
@@ -192,74 +145,36 @@
 
 ---
 
-#### PC版
+### チャンネルの確認
 
-1. 左メニューの `CHANNELS` に 次のチャンネルがあるか確認する
+- 左メニューの `CHANNELS` に 次のチャンネルがあるか確認する
 
-![100%](images/notice-1d.png)
+|||
+|:--|:--|
+|![](images/notice-1d.png)|![53%](images/notice-1.png)|
 
 ---
 - #general
 - #random
 - #question
 - #works
-- #m_general #m_random など
-	- 冒頭の文字は所属班によって異なる
-		###### `m_`: 音楽班
-		###### `v_`: 映像班
-		###### `p_`: プログラミング班
-		###### `i_`: イラスト班
-		###### `l_`: 文芸班
+- 班ごとのチャンネル
+	- **音楽班**: #**==m==**_general #**==m==**_random
+	- **プログラミング班**: #**==p==**_general #**==p==**_random
+	- **映像班**: #**==v==**_general #**==v==**_random
+	- **イラスト班**: #**==i==**_general #**==i==**_random
+	- **文芸班**: #**==l==**_general #**==l==**_random
 
 ---
 
-#### PC版
-
-2. 上部の `#general` から `Notification preferences …` をクリック
-
-![100%](images/notice-2d.png)
+### PC版の通知設定
+###### DEMO
 
 ---
 
-#### PC版
-
-3. `Desktop notifications`, `Mobile push notifications` の両方を
-`Activity of any kind` にする
-
-![90%](images/notice-3d.png)
-
-
----
-
-#### モバイル版 (※ PCで設定した方は不要)
-
-1. 左にスワイプして `#general` をタップ
-
-![60%](images/notice-1.png)
-
----
-
-#### モバイル版
-
-2. 上の `#general` をタップ
-
-![](images/notice-2.png)
-
----
-
-#### モバイル版
-
-3. `Notifications` をタップ
-
-![55%](images/notice-3.png)
-
----
-
-#### モバイル版
-
-4. `All Activity` をタップ
-
-![60%](images/notice-4.png)
+### モバイル版の通知設定
+###### (※ PCで設定した方は不要)
+###### DEMO
 
 ---
 
@@ -271,7 +186,7 @@
 ### モバイル通知のタイミング
 
 - 既定ではPCでログインしているとモバイルに通知が来るのが2分後
-- [ここ](https://sokon.slack.com/account/notifications) から設定を変更する
+- すぐ通知がくるように変更する
 
 ![](images/mobile_push_timing.png)
 
@@ -285,35 +200,22 @@
 
 ## ==④ プロフィールの確認==
 
-#### PC版
-
-1. 左上の `総合コンテンツ… ∨` から `Profile & account` をクリック
-
-![100%](images/profile-1d.png)
-
----
-
-#### PC版
-
-2. 右メニューにプロフィールが表示されるので、
-`Edit Profile` をクリック
-
-![100%](images/profile-2d.png)
-
----
-
-#### モバイル版
-
-1. 右にスワイプして `Edit Profile` をタップ
-
-![40%](images/profile-1.png)
+### PC版
+###### DEMO
 
 ---
 
 ## ==④ プロフィールの確認==
 
+### モバイル版
+###### DEMO
+
+---
+
+### プロフィールの確認
+
 - プロフィールが正しいか確認してください
-- 氏名・What I Doは変更禁止 あとは自由
+- 氏名・What I Doは **変更禁止** あとは自由
 
 #### What I Do (Role) の例
 > FMS1年 総コンくん | 幹事長 プログラミング班`*1` | @CCC_sokon`*2`
@@ -353,13 +255,6 @@
 
 ---
 
-### チャンネルの見方
-- 左メニュー `CHANNELS`に参加しているチャンネル一覧
-
-![](images/tutorial_channel.png)
-
----
-
 ### チャンネルの参加・作成方法
 
 - 左メニュー `CHANNELS` から一覧、`+`から作成
@@ -372,15 +267,11 @@
 
 ### チャンネルのメニュー
 
-- 上部チャンネル名をクリック`
+- 上部チャンネル名をクリック
 
-![80%](images/channel_menu.png)
-
----
-
-#### モバイル版
-
-![90%](images/channel_menu_mobile.png)
+| | |
+|:--|:--|
+| ![70%](images/channel_menu.png) | ![70%](images/channel_menu_mobile.png) |
 
 ---
 
@@ -448,14 +339,8 @@
 ---
 
 - 通知設定はチャンネルごと、｢4つの大事な作業｣の手順と同様
- 
+
 ![100%](images/notification.png)
-
----
-
-#### モバイル版
-
-- ｢4つの大事な作業｣ の通知設定を参照
 
 ---
 
@@ -476,9 +361,15 @@
 ---
 
 ### リアクションのしかた
-- **general**がつくチャンネルの連絡には必ずリアクションをしましょう
+- ==**general**== がつくチャンネルの連絡には必ずリアクションをしましょう
 
 ![70%](images/reaction-2.png)
+
+---
+
+### リアクションをしてみよう！ :+1:
+
+###### DEMO
 
 ---
 
@@ -506,11 +397,15 @@
 ![](images/thread-1.png)
 
 ---
+
+### スレッドで `@sokon` を呼んでみよう！
+###### DEMO
+
+---
 <!-- *template: invert -->
 
 ### Slackには他にも機能がたくさん
 ##### ファイル共有、ピン、スニペット、ポスト、外部連携、BOT etc...
-###### 参考:<br>[【slack使い方完全ガイド】〜始め方から連携機能まで徹底解説〜](https://tech-camp.in/note/14901/)
 
 ---
 
@@ -530,6 +425,11 @@
 
 ---
 
+### どんなチャンネルがあるか見てみよう！
+###### DEMO
+
+---
+
 ### チャンネルの作成について
 
 - 誰もがチャンネルを作成することができます
@@ -543,5 +443,5 @@
 <!-- template: gaia -->
 
 # 以上で解説は終わりです
-#### Slackは堅苦しくありません！ 活動教室の一つ と思ってください
+#### Slackは堅苦しくありません！ **活動教室のような場** と思ってください
 #### 分からないことがあれば `#question` か役職者に聞いてみよう！
