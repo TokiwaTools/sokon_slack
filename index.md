@@ -13,9 +13,9 @@
 <!-- footer: 総合コンテンツ制作サークル-->
 
 ![bg](images/CCC_wallpaper.png)
-# [Slack講習会](https://github.com/TokiwaTools/sokon_slack)
+# ==Slack講習会==
 #### Slackの導入と使い方
-###### 2017/4/20 Updated by Tokiwa
+###### 2017/4/21 Updated by Tokiwa
 
 ---
 
@@ -102,13 +102,13 @@
 
 3. パスワードを作成 (**忘れないように！**)
 
-![85%](images/join-2.png)
+![150%](images/join-2.png)
 
 ---
 
 4. 利用規約に同意
 
-![85%](images/join-3.png)
+![150%](images/join-3.png)
 
 ---
 
@@ -123,9 +123,6 @@
 
 - **【必須】モバイル(スマホ)版**
 - 【推奨】ブラウザ、デスクトップ版
-	- ブラウザ版は[ここ](https://sokon.slack.com)を開くだけで見られます
-	- Chromeの場合、タブを右クリックで`タブを固定`すると便利
-	(通知も受け取れる)
     - スマホがない人はこのどちらかを入れてください
 
 ---
@@ -139,36 +136,51 @@
 
 2. `Sign in to an existing team` をタップ
 
-![48%](images/mobile_login-1.png)
+![](images/mobile_login-1.png)
 
 ---
 
 3. `sokon` と入力
 
-![48%](images/mobile_login-2.png)
+![](images/mobile_login-2.png)
 
 ---
 
 4. 招待が来たメールアドレスを入力
 
-![48%](images/mobile_login-3.png)
+![](images/mobile_login-3.png)
 
 ---
 
 5. `Type password` をタップ
 
-![48%](images/mobile_login-4.png)
+![](images/mobile_login-4.png)
 
 ---
 
 6. パスワードを入力
 
-![48%](images/mobile_login-5.png)
+![](images/mobile_login-5.png)
+
+---
+
+7. 通知をONに
+
+![80%](images/mobile_login-6.png)
+
+---
+
+- このようなポップアップが出たら `許可` や `OK` をタップ
+
+| iPhoneの例 | Androidの例 |
+|:-:|:-:|
+|![](images/ios_push.png) | ![](images/android_push.png) |
 
 ---
 
 ### ログイン成功！
-![48%](images/mobile_login-6.png)
+
+![48%](images/mobile_login-7.png)
 
 ---
 
@@ -177,20 +189,6 @@
 - 確実に重要なメッセージが通知されるために、絶対設定してください
 - 運営側で個人の通知設定を変更することはできません
 - 通知設定には**Slack側の設定**と**スマホ側の設定**があります
-
----
-
-### スマートフォン側の設定
-
-- このようなポップアップが出たら `許可` や `OK` をタップ
-
-| iPhoneの例 | Androidの例 |
-|:-:|:-:|
-|![46%](images/ios_push.png) | ![50%](images/android_push.png) |
-
----
-
-### Slack側の設定
 
 ---
 
@@ -237,7 +235,7 @@
 
 1. 左にスワイプして `#general` をタップ
 
-![40%](images/notice-1.png)
+![60%](images/notice-1.png)
 
 ---
 
@@ -245,7 +243,7 @@
 
 2. 上の `#general` をタップ
 
-![40%](images/notice-2.png)
+![](images/notice-2.png)
 
 ---
 
@@ -253,7 +251,7 @@
 
 3. `Notifications` をタップ
 
-![40%](images/notice-3.png)
+![55%](images/notice-3.png)
 
 ---
 
@@ -261,12 +259,27 @@
 
 4. `All Activity` をタップ
 
-![40%](images/notice-4.png)
+![60%](images/notice-4.png)
 
 ---
 
 #### 同様に `#m_general` といった班ごとのチャンネルも通知ONに！
 ###### 詳しくは後で話します
+
+---
+
+### モバイル通知のタイミング
+
+- 既定ではPCでログインしているとモバイルに通知が来るのが2分後
+- [ここ](https://sokon.slack.com/account/notifications) から設定を変更する
+
+![](images/mobile_push_timing.png)
+
+---
+
+### 通知の確認
+#### 今から `#general` にテストメッセージを送信します
+###### スマートフォンに通知が来ているか確認してください
 
 ---
 
