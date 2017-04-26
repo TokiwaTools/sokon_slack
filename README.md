@@ -8,5 +8,5 @@
 - [公式チャンネル一覧](https://scrapbox.io/sokon/公式チャンネル一覧)
 - [規約](https://scrapbox.io/sokon/Slack%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84)
 
-(C) 2017 Tokiwa
+(C) 2017 Tokiwa  
 無断転載、複製、配布を禁じる
